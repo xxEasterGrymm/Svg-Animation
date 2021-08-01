@@ -5,9 +5,10 @@ body {
 
 .image {
     position: absolute;
-    left: 30%;
-    width: 3000px;
-    height: 3000px;
+    left: 20%;
+    top: -15%;
+    width: 1000px;
+    height: 1000px;
     -webkit-animation:spin 4s linear infinite;
     -moz-animation:spin 4s linear infinite;
     animation:spin 4s linear infinite;
